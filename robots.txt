@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nitya233.github.io/signs-of-a-cockroach-infestation-at-home/sitemap.xml
